@@ -1,0 +1,129 @@
+h1{
+    color: rgb(0, 0, 0) ;
+    font-family: cursive;
+    border-left: solid black;
+    border-right: solid black;
+    border-bottom: solid black;
+    border-top: solid black; 
+    background-image: url("../img/conclusión/fondo.jpg");
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    }
+    
+    body{
+        background-color: rgb(234, 250, 248);
+    } 
+    .subtitle {font-size: 30px;}
+    
+    .cuerpo {font-size: 25px;}
+    
+    #dos {
+        border-top:solid grey;
+        border-bottom: solid gray;
+        border-right: solid gray;
+        border-left: solid gray;
+        width: 100%;
+        margin-top: 50px;
+    }
+    
+    
+    
+    #gris{
+        text-align:justify;
+        
+    }
+    h2{
+        text-align: center;
+        padding-top: 25px;
+    }
+    #uno{
+        border-top:solid grey;
+        border-bottom: solid gray;
+        border-right: solid gray;
+        border-left: solid gray;
+        width: 100%;
+        margin-top: 90px;
+    }
+    #tres{
+        border-top:solid grey;
+        border-bottom: solid gray;
+        border-right: solid gray;
+        border-left: solid gray;
+        width: 100%;
+        margin-top: 90px;
+        margin-right: 130px;
+    }
+    #cuatro{
+        border-top:solid grey;
+        border-bottom: solid gray;
+        border-right: solid gray;
+        border-left: solid gray;
+        width: 100%;
+        margin-top: 80px;
+        margin-left: 15px;
+    }
+    #un{
+        border-left: solid black;
+        border-right: solid black;
+        border-bottom: solid black;
+        border-top: solid black; 
+        width: 105%;
+        margin-top: 40px;
+    }
+    #do{
+        border-left: solid black;
+        border-right: solid black;
+        border-bottom: solid black;
+        border-top: solid black; 
+        width: 100%;
+        margin-top: 70px;
+    }
+    #tre{
+        border-left: solid black;
+        border-right: solid black;
+        border-bottom: solid black;
+        border-top: solid black; 
+        width: 100%;
+        margin-top: 60px;
+    }
+    
+    #cuatr{
+        border-left: solid black;
+        border-right: solid black;
+        border-bottom: solid black;
+        border-top: solid black; 
+        width: 100%;
+        margin-top: 90px;
+    }
+    #d{
+        border-left: solid black;
+        border-right: solid black;
+        border-bottom: solid black;
+        border-top: solid black; 
+        width: 90%;
+        margin-top: 70px;
+    }
+#o{
+    border-left: solid black;
+    border-right: solid black;
+    border-bottom: solid black;
+    border-top: solid black; 
+    width: 90%;
+    margin-top: 30px;
+}
+#vodafone{
+    border-left: solid black;
+    border-right: solid black;
+    border-bottom: solid black;
+    border-top: solid black; 
+    width: 100%;
+margin-top: 30px;
+}
+#Vodafone{
+    border-left: solid black;
+    border-right: solid black;
+    border-bottom: solid black;
+    border-top: solid black; 
+    width: 50%;
+}
